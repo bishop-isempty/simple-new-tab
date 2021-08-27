@@ -1,5 +1,5 @@
-# Simple New tab for Chromium
-Just a small practise for creating chromium extension  
+# Simple New Tab for Chromium
+Just a small experiment on creating chromium extension  
 Test on:  
 > Brave Version 1.28.106 Chromium: 92.0.4515.159 (Official Build) (64-bit)
 # Main feature
